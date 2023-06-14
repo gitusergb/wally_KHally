@@ -1,0 +1,12 @@
+{
+    "users":[
+      {
+        "id": 1,
+        "name": "Gauri Bidwai",
+       "email":"g4ur131@gmail.com",
+       "mobile":"9500034999",
+       "pass":"1234"
+      }
+      
+    ]
+  }
