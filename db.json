@@ -8,5 +8,34 @@
        "pass":"1234"
       }
       
+    ],
+    "category":[
+      {
+        "id":1,
+        "name":"Food",
+        "img":"https://i.ibb.co/KFmqWx3/food.jpg"
+      },{
+        "id":2,
+        "name":"Bills",
+        "img":"https://i.ibb.co/996NVjh/images.png"
+      },
+      {
+        "id":3,
+        "name":"Transport",
+        "img":"https://i.ibb.co/m8Q5rcp/transport.png"
+      },{
+        "id":4,
+        "name":"Shopping",
+        "img":"https://i.ibb.co/pQ5v9b7/shopping.png"
+      },
+      {
+        "id":5,
+        "name":"Entertainment",
+        "img":"https://i.ibb.co/8BQfr5g/entertainment.png"
+      },{
+        "id":6,
+        "name":"Others",
+        "img":"https://i.ibb.co/j8141Gh/others.png"
+      }
     ]
   }
